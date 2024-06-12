@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-09T14:03:41.730026Z</date>
+  <millis>1717941821730</millis>
+  <nanos>26000</nanos>
+  <sequence>0</sequence>
+  <logger>utils.ServerLogger</logger>
+  <level>INFO</level>
+  <class>connection.Server</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Сервер запущен на порте 23548</message>
+</record>
